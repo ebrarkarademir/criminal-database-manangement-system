@@ -1,3 +1,4 @@
 # criminal-database-manangement-system
-My school project about criminal database, written in Java.
-If you want to run the program on your computer pls rewrite the database.txt path.
+ID : 150318045
+PASSWORD : 12345
+If you want to run the program on your computer please rewrite the database.txt path for your computer. 
